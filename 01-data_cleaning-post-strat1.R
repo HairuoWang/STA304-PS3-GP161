@@ -1,5 +1,5 @@
 #### Preamble ####
-# Purpose: Prepare and clean the survey data downloaded from IPUMS USA 2018 5-years ACS. 
+# Purpose: Prepare and clean the survey data downloaded from IPUMS USA 2018 5-years ACS.
 # Author: Hanrui Dou, Hanjing Huang, Hairuo Wang, Xuan Zhong - Group 161
 # Data: 2 Nomverber 2020
 # Contact: hairuo.wang@mail.utoronto.ca, dhr1142638924@gmail.com, hanjing.huang@mail.utoronto.ca, xuan.zhong@mail.utoronto.ca
